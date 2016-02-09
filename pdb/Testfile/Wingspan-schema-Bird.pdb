@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<dbfile><class><name>Wingspan\schema\Bird</name><fields><field>id</field><field>name</field></fields><superclasses/></class><objects/></dbfile>
